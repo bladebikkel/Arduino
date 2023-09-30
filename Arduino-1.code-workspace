@@ -1,0 +1,12 @@
+{
+	"folders": [
+        {
+            "path": "."
+        },
+        {
+            "name": "Blink builtin en pin 18 LEDs",
+            "path": "../../../PlatformIO/Projects/Blink builtin en pin 18 LEDs"
+        }
+    ],
+    "settings": {}
+}
